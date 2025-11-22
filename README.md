@@ -1,61 +1,129 @@
-<div align="center" width="50">
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
-[![Hello Coders](https://github.com/Gounou-Younes/Gounou-Younes/blob/main/images/hellocoders_rounded.gif?raw=true)](https://github.com/Gounou-Younes) 
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+  <a href="https://jacobcolvin.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a>
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-[![Workspace](https://github.com/Gounou-Younes/Gounou-Younes/blob/main/images/dev-working_rounded.gif?raw=true)](https://github.com/Gounou-Younes) <br> 
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-</details>
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Gounou-Younes&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGounou-Younes&count_bg=%232ecc71&title_bg=%23555555&icon=web.svg&icon_color=%23E7E7E7&title=WEB+DEV+HITS&edge_flat=false)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/youness__gn)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/gn.youness.7)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/212608755466)
 <br>
-</div>
 
-<hr></hr>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-## 🛠️ Mon Stack de Technologies & Outils
+> Tools, languages, and other things that I like to work with.
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Web%20%26%20Dev%20Tools-blue)
-![semicolon](https://img.shields.io/badge/-%3A-blue)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
 
-### Langages
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<h2 align="left">Coding Activity</h2>
 
-### Frameworks & Bibliothèques
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
 
-### Bases de Données & Outils
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vscode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
 
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
 
-```javascript
-// Les outils et technologies que j'utilise (Focus sur le développement Web)
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
-const GounouYounes = { 
-  const myTechStack = {  
-    "Frontend" : { "HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "TailwindCSS" },
-    "Backend" : { "Node.js", "Express.js", "PHP" },
-    "Database" : { "MongoDB", "MySQL", "PostgreSQL" },
-    "Tools&OS" : { "VS Code", "Git", "Docker", "Figma", "Linux" }
-  };
-}
+<!-- links -->
+
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
