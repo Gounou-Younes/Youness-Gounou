@@ -1,129 +1,63 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
+### Hey!
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+👾 I'm **Orhun**.
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+🦀 An open-source developer with a deep passion for Rust.
+
+🐁 I work on terminal tooling and libraries.
+
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
 <br>
+<br>
+<br>
+<br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+#### ⚡ Stats
 
-> Tools, languages, and other things that I like to work with.
+I joined GitHub **8** years ago and since then I have pushed **29787** commits, opened **724** issues, submitted **1581** PRs, received **20989** stars across **145** personal projects and contributed to **172** public repositories.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
+#### 🌀 Projects
 
-<h2 align="left">Coding Activity</h2>
+| **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Bash**, **Zig**, **C**, **Go**, **Python**, **Kotlin**, **Java**, **JS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable changelog generator<br>• [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binaries like a boss<br>• [ratzilla](https://github.com/orhun/ratzilla) - Library for building terminal-themed web apps<br>• [kmon](https://github.com/orhun/kmon) - Linux kernel manager and activity monitor<br>• [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl<br>• [gpg-tui](https://github.com/orhun/gpg-tui) - Terminal user interface for GnuPG<br>• [rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service<br>• [menyoki](https://github.com/orhun/menyoki) - A tool for performing image operations on the command line<br>• [runst](https://github.com/orhun/runst) - A dead simple notification daemon for Linux<br>• [halp](https://github.com/orhun/halp) - A tool to get help with CLI tools<br>• [daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter<br>• [arch-repro-status](https://github.com/archlinux/arch-repro-status) - A tool for checking the reproducibility status of Arch Linux packages<br>• [godsays](https://github.com/orhun/godsays) - Rust port of the Terry Davis' (RIP) "god says" program<br>• [battleship-rs](https://github.com/orhun/battleship-rs) - Battleship game implemented in Rust<br>• [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations<br>• [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen<br>• [flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs) | • [CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly<br>• [linuxwave](https://github.com/orhun/linuxwave) - A tool for generating music from the entropy of Linux<br>• [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator<br>• [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes<br>• [alpkg](https://github.com/orhun/alpkg) - A tool for setting up an Alpine Linux packaging environment<br>• [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor for Linux<br>• [grapheneX](https://github.com/grapheneX/grapheneX) - Automated system hardening framework<br>• [HydropotX](https://github.com/orhun/HydropotX) - Automated and self-contained hydroponics system<br>• [k3pler](https://github.com/orhun/k3pler) - Android network connection blocker and packet analyzer<br>• [RTLion](https://github.com/RTLion-Framework) - Multipurpose RTL-SDR framework for RTL2832 based DVB-T receivers<br>• [rtl_map](https://github.com/orhun/rtl_map) - A FFT-based visualizer for RTL-SDR devices<br>• [Picasso](https://github.com/orhun/Picasso) - PIC16F877A based 5V/20MHz development board and PIC programmer<br>• [dotfiles](https://github.com/orhun/dotfiles) - `/home/orhun/` |
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+#### 🛠️ What am I working on?
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+| **Category**      | **Description**                                                                                                                                                                                           |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Maintaining**   | [Ratatui](https://github.com/ratatui/ratatui) – A Rust library for building TUIs.                                                                                                                         |
+|                   | [git-cliff](https://github.com/orhun/git-cliff) – A CLI tool for generating changelogs.                                                                                                                   |
+|                   | Rust packages for [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z). |
+| **Creating**      | New terminal tools and libraries like [binsider](https://github.com/orhun/binsider) and [ratzilla](https://github.com/orhun/ratzilla).                                                                    |
+| **Writing**       | [Blog posts](https://blog.orhun.dev).                                                                                                                                                                     |
+| **Yapping**       | [X](https://x.com/orhundev) / [Mastodon](https://fosstodon.org/@orhun) / [Bluesky](https://bsky.app/profile/orhun.dev) / [LinkedIn](https://www.linkedin.com/in/orhunp).                                  |
+| **Organizing**    | [Terminal Collective](https://terminalcollective.org) – A meetup/community for terminal enthusiasts.                                                                                                      |
+| **Inspiring**     | _you_ via [Grindhouse](https://grindhouse.dev).                                                                                                                                                           |
+| **Livestreaming** | Everything on [YouTube](https://www.youtube.com/@orhundev).                                                                                                                                               |
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+---
 
-<!-- links -->
+💖 [Buy merch](https://grindhouse.dev) or [sponsor me](https://github.com/sponsors/orhun) to support my work!
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+✨ [Sponsored by](https://github.com/sponsors/orhun):
+
+<a href="https://terminaltrove.com/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
+</a>
+
+<a href="https://jetbrains.com/" target="_blank">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
+</a>
+
+<div align="right">
+
+**~** [_orhun.dev_](https://orhun.dev/)
+
+</div>
