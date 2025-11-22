@@ -1,5 +1,6 @@
-<div align="center">
-    <img src="https://github.com/Gounou-Younes/Gounou-Younes/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<div align="center" width="50">
+
+[![Hello Coders](https://github.com/Gounou-Younes/Gounou-Younes/blob/main/images/hellocoders_rounded.gif?raw=true)](https://github.com/Gounou-Younes) 
 </div>
 
 ### Hey!
@@ -33,7 +34,7 @@
 
 | **Catégorie** | **Description** |
 | :--- | :--- |
-| **Actuellement** | 💼 Je travaille sur des projets Full-Stack modernes en utilisant Next.js et TypeScript. |
+| **Actuellement** | 💼 Je travaille sur des projets Full-Stack modernes en utilisant **Next.js** et **TypeScript**. |
 | **Intérêts** | 📈 Optimisation des performances Web (Web Performance) et UI/UX Design. |
 | **Me Contacter** | 💬 Vous pouvez m'envoyer un message sur [WhatsApp](https://wa.me/212608755466) ou [Instagram](https://instagram.com/youness__gn). |
 | **Fun Fact** | La première page web a été mise en ligne en 1991! |
