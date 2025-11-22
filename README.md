@@ -1,63 +1,55 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
+<div align="center">
+    <img src="https://github.com/Gounou-Younes/Gounou-Younes/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+</div>
 
 ### Hey!
 
-👾 I'm **Orhun**.
+🚀 I'm **Youness Gounou**.
 
-🦀 An open-source developer with a deep passion for Rust.
+💻 A **Full-Stack Developer** focused on building robust and scalable web applications.
 
-🐁 I work on terminal tooling and libraries.
+⚙️ I mainly work with the **Next.js** framework and the **Node.js** environment.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/youness__gn) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/gn.youness.7)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/212608755466)
+[![views](https://komarev.com/ghpvc/?username=Gounou-Younes&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/Gounou-Younes)
 
 <br>
 <br>
-<br>
-<br>
 
-#### ⚡ Stats
+#### ⚡ Mon Stack de Technologies
 
-I joined GitHub **8** years ago and since then I have pushed **29787** commits, opened **724** issues, submitted **1581** PRs, received **20989** stars across **145** personal projects and contributed to **172** public repositories.
+| **Frontend** | **Backend & Tools** |
+| :---: | :---: |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white) |
+| ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-#### 🌀 Projects
 
-| **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Bash**, **Zig**, **C**, **Go**, **Python**, **Kotlin**, **Java**, **JS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable changelog generator<br>• [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binaries like a boss<br>• [ratzilla](https://github.com/orhun/ratzilla) - Library for building terminal-themed web apps<br>• [kmon](https://github.com/orhun/kmon) - Linux kernel manager and activity monitor<br>• [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl<br>• [gpg-tui](https://github.com/orhun/gpg-tui) - Terminal user interface for GnuPG<br>• [rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service<br>• [menyoki](https://github.com/orhun/menyoki) - A tool for performing image operations on the command line<br>• [runst](https://github.com/orhun/runst) - A dead simple notification daemon for Linux<br>• [halp](https://github.com/orhun/halp) - A tool to get help with CLI tools<br>• [daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter<br>• [arch-repro-status](https://github.com/archlinux/arch-repro-status) - A tool for checking the reproducibility status of Arch Linux packages<br>• [godsays](https://github.com/orhun/godsays) - Rust port of the Terry Davis' (RIP) "god says" program<br>• [battleship-rs](https://github.com/orhun/battleship-rs) - Battleship game implemented in Rust<br>• [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations<br>• [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen<br>• [flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs) | • [CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly<br>• [linuxwave](https://github.com/orhun/linuxwave) - A tool for generating music from the entropy of Linux<br>• [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator<br>• [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes<br>• [alpkg](https://github.com/orhun/alpkg) - A tool for setting up an Alpine Linux packaging environment<br>• [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor for Linux<br>• [grapheneX](https://github.com/grapheneX/grapheneX) - Automated system hardening framework<br>• [HydropotX](https://github.com/orhun/HydropotX) - Automated and self-contained hydroponics system<br>• [k3pler](https://github.com/orhun/k3pler) - Android network connection blocker and packet analyzer<br>• [RTLion](https://github.com/RTLion-Framework) - Multipurpose RTL-SDR framework for RTL2832 based DVB-T receivers<br>• [rtl_map](https://github.com/orhun/rtl_map) - A FFT-based visualizer for RTL-SDR devices<br>• [Picasso](https://github.com/orhun/Picasso) - PIC16F877A based 5V/20MHz development board and PIC programmer<br>• [dotfiles](https://github.com/orhun/dotfiles) - `/home/orhun/` |
+#### 🧠 À propos de moi
 
-Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
+| **Catégorie** | **Description** |
+| :--- | :--- |
+| **Actuellement** | 💼 Je travaille sur des projets Full-Stack modernes en utilisant Next.js et TypeScript. |
+| **Intérêts** | 📈 Optimisation des performances Web (Web Performance) et UI/UX Design. |
+| **Me Contacter** | 💬 Vous pouvez m'envoyer un message sur [WhatsApp](https://wa.me/212608755466) ou [Instagram](https://instagram.com/youness__gn). |
+| **Fun Fact** | La première page web a été mise en ligne en 1991! |
 
-#### 🛠️ What am I working on?
 
-| **Category**      | **Description**                                                                                                                                                                                           |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Maintaining**   | [Ratatui](https://github.com/ratatui/ratatui) – A Rust library for building TUIs.                                                                                                                         |
-|                   | [git-cliff](https://github.com/orhun/git-cliff) – A CLI tool for generating changelogs.                                                                                                                   |
-|                   | Rust packages for [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z). |
-| **Creating**      | New terminal tools and libraries like [binsider](https://github.com/orhun/binsider) and [ratzilla](https://github.com/orhun/ratzilla).                                                                    |
-| **Writing**       | [Blog posts](https://blog.orhun.dev).                                                                                                                                                                     |
-| **Yapping**       | [X](https://x.com/orhundev) / [Mastodon](https://fosstodon.org/@orhun) / [Bluesky](https://bsky.app/profile/orhun.dev) / [LinkedIn](https://www.linkedin.com/in/orhunp).                                  |
-| **Organizing**    | [Terminal Collective](https://terminalcollective.org) – A meetup/community for terminal enthusiasts.                                                                                                      |
-| **Inspiring**     | _you_ via [Grindhouse](https://grindhouse.dev).                                                                                                                                                           |
-| **Livestreaming** | Everything on [YouTube](https://www.youtube.com/@orhundev).                                                                                                                                               |
+<div align="center">
 
----
+<hr></hr>
+## ✨ GitHub Stats (Gounou-Younes)
 
-💖 [Buy merch](https://grindhouse.dev) or [sponsor me](https://github.com/sponsors/orhun) to support my work!
+<a  href="https://github.com/Gounou-Younes">
+<img src="https://raw.githubusercontent.com/Gounou-Younes/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/Gounou-Younes/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/Gounou-Younes/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-✨ [Sponsored by](https://github.com/sponsors/orhun):
-
-<a href="https://terminaltrove.com/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
 </a>
-
-<a href="https://jetbrains.com/" target="_blank">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
-</a>
-
-<div align="right">
-
-**~** [_orhun.dev_](https://orhun.dev/)
+<hr></hr>
 
 </div>
